@@ -15,6 +15,8 @@ import com.wss.shopping.R;
 
 /**
  * Describe：对话框
+ * <p>
+ * <p>
  * Created by 吴天强 on 2017/9/1.
  */
 
@@ -87,7 +89,7 @@ public class AlertDialog extends Dialog {
 
     private class clickListener implements View.OnClickListener {
 
-      
+
         public void onClick(View v) {
 
             int id = v.getId();
